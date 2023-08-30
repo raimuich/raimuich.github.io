@@ -16,11 +16,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "App development" },
+    { "name": "Web design" },
+    { "name": "Video editing" }
   ],
   "skills": [
     {
