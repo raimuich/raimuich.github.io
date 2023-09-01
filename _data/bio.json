@@ -12,12 +12,14 @@
       { "network": "github", "username": "raimuich", "url": "http://github.com/raimuich" }
     ]
   },
+  
   "interests": [
     { "name": "Software Engineering" },
     { "name": "App development" },
     { "name": "Web design" },
     { "name": "Video editing" }
   ],
+  
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -28,6 +30,7 @@
       "keywords": [ "Windows11", "Git/GitHub" ]
     }
   ],
+  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -39,6 +42,7 @@
       ]
     }
   ],
+  
   "references": [
     {
       "name": "Available upon request"
