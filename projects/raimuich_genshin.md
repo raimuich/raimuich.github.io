@@ -6,7 +6,7 @@ title: "Video editing"
 date: 2023
 published: true
 labels:
-summary: "A text adventure game that I developed for ICS 313."
+summary: "An Explanatory Video That I created for YouTube."
 ---
 
 <img class="img-fluid" src="../img/raimuich_analytics.png">
