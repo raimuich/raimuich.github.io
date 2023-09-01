@@ -15,4 +15,4 @@ As a personal project, I created 16-minute explanatory videos for the game Gensh
 
 This motivation behind starting this project was the desire to share the information I wished I had known when I was a beginner in this video game. I focused on conveying information in a clear and understandable manner, keeping the perspective of the listener in mind, and dedicated myself to creating the videos. I took extra care in adding detailed subtitles and implementing chapter divisions, thinking from the perspective of the listener to provide key points that would be advantageous to users. Since it was my first time creating AI-generated voice overs, I faced challenges in fine-tuning aspects like pronunciation and intonation. However, I was delighted to receive positive feedback from YouTube comments and see that it was warmly received.
 
-Source: <a href="https://youtu.be/3QWgsPn6mKA?si=YnElRPpnowL3gEuE)https://youtu.be/3QWgsPn6mKA?si=YnElRPpnowL3gEuE">
+[Source: <a href="https://youtu.be/3QWgsPn6mKA?si=YnElRPpnowL3gEuE)https://youtu.be/3QWgsPn6mKA?si=YnElRPpnowL3gEuE">](https://youtu.be/3QWgsPn6mKA?si=IMOcl3s4HJkg2xua)https://youtu.be/3QWgsPn6mKA?si=IMOcl3s4HJkg2xua
