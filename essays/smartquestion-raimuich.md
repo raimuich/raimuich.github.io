@@ -19,11 +19,11 @@ The following two links are examples of simple questions that I found on Stack O
 
 First, regarding the question ["Can anyone help me with this simple code?"](https://stackoverflow.com/questions/9388193/can-anyone-help-me-with-this-simple-code), the questioner has posted around 20 lines of JavaScript code. Also, the questioner presented like:
 
-the result is: true, false, false;
+  the result is: true, false, false;
 
-it should be: true, true, false;
+  it should be: true, true, false;
 
-Can anyone help me why this is happening?
+  Can anyone help me why this is happening?
 
 
 According to Raymond's article on how to ask smart questions, it is mentioned that phrases like "help me" are unnecessary, and this question's title falls into that category. Furthermore, it fails to meet the requirement of a meaningful and specific subject headers. Similarly, Raymond stated that Grovelling may be considered meaningless, and the sentence "I'm just barely learning JavaScript..." in this question might be unnecessary as well. While it's understandable to want to assert one's status as a beginner when facing a problem and asking a question, it's not particularly favorable to consider this as part of justification for asking a question. This is not about the negativity of asking foolish questions, but it is important to understand that these are areas for improvement in order to ask higher-quality questions.
