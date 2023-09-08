@@ -17,7 +17,7 @@ The following two links are examples of simple questions that I found on Stack O
 
 ## Example Question
 
-First, regarding the question ["Can anyone help me with this simple code?"](https://stackoverflow.com/questions/9388193/can-anyone-help-me-with-this-simple-code)), the questioner has posted around 20 lines of JavaScript code. Also, the questioner presented like:
+First, regarding the question ["Can anyone help me with this simple code?"](https://stackoverflow.com/questions/9388193/can-anyone-help-me-with-this-simple-code), the questioner has posted around 20 lines of JavaScript code. Also, the questioner presented like:
 
 the result is: true, false, false;
 
