@@ -10,6 +10,7 @@
     "location": { "address": "", "postalCode": "9615", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "raimuich", "url": "http://github.com/raimuich" }
+      { "network": "linkedin", "username": "raimu-ichikawa", "url": "https://www.linkedin.com/in/raimu-ichikawa-b9826628a/" }
     ]
   },
   
