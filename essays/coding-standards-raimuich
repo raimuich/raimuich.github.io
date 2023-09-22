@@ -1,0 +1,24 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-20
+published: false
+labels:
+  - Coding Standards
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
+## In the context of programming
+
+One of the things I often consider when learning about programming languages and writing basic code is how to achieve uniformity in appearance. In other words, I wonder whether I should insert spaces here or if it's better to add line breaks there, and so on. Adhering to coding standards and maintaining a consistent code appearance enhances readability, facilitates quick bug detection, and enables efficient teamwork. Furthermore, when making additions or modifications to the code, following coding standards ensures that the quality is maintained. Therefore, coding standards are essential for us as we learn programming and continue in our future careers.
+
+## In the context of engineering
+
+As for my impressions of using ESLint over the past week, I am highly satisfied with the experience. I have encountered various errors and made corrections, resulting in writing more organized and improved code. When learning a programming language, I often use the internet to research various websites, but I sometimes find myself confused by the differences in spacing, indentation, and other formatting aspects between different sites. So far, I have encountered unexpected results when finishing writing code and checking the console, sometimes leading to a time-consuming process of trying to identify where the issue lies. As a result, I have realized the importance of ESLint, which not only instantly points out mistakes but also provides valuable suggestions for improvement, helping me write better code. I have found that writing well-structured code not only aids in finding errors and bugs but also functions very effectively in this regard.
+
+## In the context of relationships
+
+Adopting a coding standard has various benefits in our learning and growth. As we receive numerous errors from ESLint, we gradually learn to avoid them in advance, allowing us to write well-structured code from an early stage. Therefore, this enables us to work efficiently as a team and address modifications, leading to our growth. By writing code with some thought to avoid errors and create well-structured code, we can move closer to code that is based on reason. I believe this approach is quite beneficial for learning as well.
