@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img src="../img/eslint.jpg">
+<img class="img-fluid" src="../img/eslint.jpg">
 
 ## Importance of Coding Standards
 
