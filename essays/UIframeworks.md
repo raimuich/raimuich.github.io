@@ -17,18 +17,18 @@ Becoming proficient in using a UI framework effectively is as complex and time-c
 
 In the past, when working with HTML and CSS without using UI frameworks, it was necessary to build structures from scratch and make multiple adjustments such as sizing and margins. After gaining experience in writing code, I found myself referring to my past code when wanting to create similar designs, applying them to current code. Utilizing templates or similar resources when working with code is crucial for efficiency. UI frameworks like Bootstrap 5 provide numerous templates in their documentation, allowing you to reference the design you have in mind and customize it accordingly. Using these templates helps maintain consistency in code writing and brings significant benefits when making design modifications later on or when collaborating with others in a group project.
 
-<img width="600px" class="img-fluid" src="../img/history.png">
+<img width="1200px" class="img-fluid" src="../img/history.png">
 
 The above image displays a web sample illustrating the history of　browsers, with the histories of IE, Firefox, and Chrome presented in three separate columns.
 
 When creating this without using a UI framework, it requires to create three div elements and adjust them with CSS as follows:
 
-<img width="400px" class="img-fluid" src="../img/nonframehtml.png">
-<img width="200px" class="img-fluid" src="../img/nonframecss.png">
+<img width="800px" class="img-fluid" src="../img/nonframehtml.png">
+<img width="400px" class="img-fluid" src="../img/nonframecss.png">
 
 However, by using Bootstrap 5's "row" class, it allow us to be able to implement three vertically aligned columns by placing three elements within a div with the "row" class, as shown below:
 
-<img width="600px" class="img-fluid" src="../img/framehtml.png">
+<img width="1200px" class="img-fluid" src="../img/framehtml.png">
 
 Not only does this result in shorter code, but it also demonstrates that UI frameworks excel in terms of speed, efficiency, and readability.
 
