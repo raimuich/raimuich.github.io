@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": "Raimu Ichikawa",
+    "label": "Student",
+    "picture": "https://github.com/raimuich.png",
+    "email": "raimuich@hawaii.edu",
+    "phone": "808-859-5425",
+    "website": "https://raimuich.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "9615", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "raimuich", "url": "http://github.com/raimuich" },
+      { "network": "linkedin", "username": "raimu-ichikawa", "url": "https://www.linkedin.com/in/raimu-ichikawa-b9826628a/" }
+    ]
+  },
+  
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "App development" },
+    { "name": "Web design" },
+    { "name": "Video editing" }
+  ],
+  
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows11", "Git/GitHub" ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "Present",
+      "courses": [ "ICS 314", "ICS 311", "MATH 301", "MATH 372"
+      ]
+    }
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
